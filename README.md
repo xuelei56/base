@@ -1,2 +1,2 @@
 # base
-some base library for project
+public base library for other use
